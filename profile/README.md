@@ -4,7 +4,7 @@ Octagon AI is pioneering the first AI marketplace of trust, where developers can
 
 ## Motivation
 
-Web3 has numerous challenges that can be significantly improved by AI, much like how AI enhances various aspects of Web2. Issues such as trading, liquidity provisioning, and lend/borrow optimizations can be handled far more efficiently with AI compared to hardcoded strategies, as well as being a lot more adaptable ([Link to post about more use cases](#)). The growing number of AI developers and infrastructure projects supporting AI agent creation shows a clear demand for these solutions.
+Web3 has numerous challenges that can be significantly improved by AI, much like how AI enhances various aspects of Web2. Issues such as trading, liquidity provisioning, and lend/borrow optimizations can be handled far more efficiently with AI compared to hardcoded strategies, as well as being a lot more adaptable. The growing number of AI developers and infrastructure projects supporting AI agent creation shows a clear demand for these solutions.
 
 ## Problem Statement
 
